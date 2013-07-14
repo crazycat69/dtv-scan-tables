@@ -1,5 +1,6 @@
 # Atlantic Bird 3 @ 5.0W
-# freq pol sr fec
+# std freq pol sr fec rolloff mod is_id pls_code pls_mode
+
 S2 11012000 V 30000000 AUTO AUTO 8PSK 2 16416
 S2 11012000 V 30000000 AUTO AUTO 8PSK 3 16416
 S2 11012000 V 30000000 AUTO AUTO 8PSK 11 16416
