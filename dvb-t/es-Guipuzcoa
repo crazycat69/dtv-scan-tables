@@ -26,7 +26,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 32: Atreseries HD, BeMad TV HD, RealMadrid TV HD,]
+[Canal 32: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
